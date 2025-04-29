@@ -68,6 +68,8 @@ I'm curious about software development and mainly use <code>C#</code>. I'm inter
   <img src="https://github.com/user-attachments/assets/b6e9a343-29e7-4cb8-8f4c-a12e70dd3a35" width="160" />
 </p>
 
+---
+
 ### 🚧 What’s Next?
 
 I'm currently planning my next project:  
