@@ -4,7 +4,7 @@ I'm curious about software development and mainly use <code>C#</code>. I'm inter
 
 ### My favourite languages atm:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,php,js)](https://skillicons.dev)
 
 ---
 
