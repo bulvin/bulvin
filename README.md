@@ -69,13 +69,3 @@ I'm curious about software development and mainly use <code>C#</code>. I'm inter
 </p>
 
 ---
-
-### 🚧 What’s Next?
-
-I'm currently planning my next project:  
-**🛳️ Battleships** – a classic game implemented in C#
-
-- AI vs AI simulation
-- Focus on logic, game state handling, and battle visualization  
-- React.js will be used for the frontend as part of my learning journey  
-
