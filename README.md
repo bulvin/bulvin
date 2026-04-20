@@ -4,13 +4,26 @@ I'm curious about software development and mainly use <code>C#/PHP</code>. I'm i
 
 ### My favourite languages atm:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,php,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,cs,js)](https://skillicons.dev)
 
 ---
 
 ### Featured Projects
 
 <table>
+  <tr>
+    <td>
+      <a href="https://github.com/bulvin/idea">
+        💡 Idea
+      </a>
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php" height="32" alt="PHP" />
+      <img src="https://skillicons.dev/icons?i=laravel" height="32" alt="Laravel" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwind" />
+      <img src="https://skillicons.dev/icons?i=alpinejs" height="32" alt="alpine.js" />
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/bulvin/multiplayer-web-game-arcade-io">
