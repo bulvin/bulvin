@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm curious about software development and mainly use <code>C#/PHP</code>. I'm interested in building business/web applications. Below are some of my side projects, as well as projects I've contributed to in collaboration with others.
+I'm curious about software development and mainly use <code>PHP, C#</code>. I'm interested in building business/web applications. Below are some of my side projects, as well as projects I've contributed to in collaboration with others.
 
 ### My favourite languages atm:
 
