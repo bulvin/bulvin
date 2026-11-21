@@ -4,7 +4,7 @@ I'm curious about software development and I like to Program. I'm interested in 
 
 ### My favourite languages atm:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,php,js)](https://skillicons.dev)
 
 ---
 
